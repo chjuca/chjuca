@@ -43,8 +43,8 @@
 | ![express](./img/technologies/express.png)                     | Express           | ![60%](https://progress-bar.dev/60/) | ![sequelize](./img/technologies/sequelize.png)             | Sequelize       | ![70%](https://progress-bar.dev/70/) |
 | ![mongoose](./img/technologies/mongoose.png)                   | Mongoose          | ![40%](https://progress-bar.dev/40/) | ![postgresql](./img/technologies/postgresql.png)           | PostgreSQL      | ![70%](https://progress-bar.dev/70/) |
 | ![mongodb](./img/technologies/mongodb.png)                     | MongoDB           | ![40%](https://progress-bar.dev/40/) | ![docker](./img/technologies/docker.png)                   | Docker          | ![40%](https://progress-bar.dev/40/)|
-| ![react](./img/technologies/react.png)                         | React             | ![40%](https://progress-bar.dev/40/) | ![git](./img/technologies/git.png)                         | Git             | ![80%](https://progress-bar.dev/80/)| 
-| ![github](./img/technologies/github.png)                       | GitHub            | ![80%](https://progress-bar.dev/80/) |
+| ![react](./img/technologies/react.png)                         | React             | ![40%](https://progress-bar.dev/40/) | ![angular](./img/technologies/angular.png)                   | Angular          | ![40%](https://progress-bar.dev/90/)|
+| ![git](./img/technologies/git.png)                             |    Git            | ![80%](https://progress-bar.dev/80/) | ![github](./img/technologies/github.png)                       | GitHub            | ![80%](https://progress-bar.dev/80/) | 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
 	

@@ -27,9 +27,6 @@
 ### Most used languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chjuca&show_icons=true&theme=dark&hide_title=true)
 
-### Streaks
-![chjuca](https://github-readme-streak-stats.herokuapp.com/?user=chjuca&theme=dark)
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
 
 	

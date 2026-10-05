@@ -1,58 +1,38 @@
+<h1 align="center">Hi, I'm Carlos Juca 👋</h1>
 
-<!DOCTYPE html>
-<html>
- <head>
- </head>
-  <body>
-    
-### Hi there 👋
-	  
-<!-- Basic Information -->
-<section>
-
-- 🔭 I’m currently working on MAPVX
-- 🌱 I’m currently learning React JS and I like to do daily LeetCode challenges.
-- 💡 Totally geeking out on learning new things! 🌟
-- 🏗️ Dedicated to crafting digital experiences that not only meet but exceed user expectations.
-- 📫 How to reach me chjuca99@gmail.com
-</section>
-<!-- Basic Information -->
-
-### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chjuca/) 
-
-### 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vue](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue-dot-js&logoColor=%234FC08D)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
-
-<!-- START NEW SECTION -->
 <p align="center">
- <h2 align="center">Github Stats</h2>
+  <b>Fullstack Engineer</b> · Microservices · High-performance APIs · LLM agents · AWS<br />
+  📍 Loja, Ecuador · working remotely
+</p>
 
-### Most used languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chjuca&show_icons=true&theme=dark&hide_title=true)
+<p align="center">
+  <a href="https://chjuca.dev"><img src="https://img.shields.io/badge/Portfolio-chjuca.dev-FF6A3D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a> <a href="https://www.linkedin.com/in/chjuca/"><img src="https://img.shields.io/badge/LinkedIn-chjuca-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBzdHJva2U9IiNmZmZmZmYiIGZpbGw9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMCIgdmlld0JveD0iMCAwIDQ0OCA1MTIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHBhdGggZD0iTTQxNiAzMkgzMS45QzE0LjMgMzIgMCA0Ni41IDAgNjQuM3YzODMuNEMwIDQ2NS41IDE0LjMgNDgwIDMxLjkgNDgwSDQxNmMxNy42IDAgMzItMTQuNSAzMi0zMi4zVjY0LjNjMC0xNy44LTE0LjQtMzIuMy0zMi0zMi4zek0xMzUuNCA0MTZINjlWMjAyLjJoNjYuNVY0MTZ6bS0zMy4yLTI0M2MtMjEuMyAwLTM4LjUtMTcuMy0zOC41LTM4LjVTODAuOSA5NiAxMDIuMiA5NmMyMS4yIDAgMzguNSAxNy4zIDM4LjUgMzguNSAwIDIxLjMtMTcuMiAzOC41LTM4LjUgMzguNXptMjgyLjEgMjQzaC02Ni40VjMxMmMwLTI0LjgtLjUtNTYuNy0zNC41LTU2LjctMzQuNiAwLTM5LjkgMjctMzkuOSA1NC45VjQxNmgtNjYuNFYyMDIuMmg2My43djI5LjJoLjljOC45LTE2LjggMzAuNi0zNC41IDYyLjktMzQuNSA2Ny4yIDAgNzkuNyA0NC4zIDc5LjcgMTAxLjlWNDE2eiI%2BPC9wYXRoPjwvc3ZnPg%3D%3D" alt="LinkedIn" /></a> <a href="mailto:chjuca99@gmail.com"><img src="https://img.shields.io/badge/Email-chjuca99%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1000">
+---
 
-![Rectangle2](https://user-images.githubusercontent.com/35740463/114885390-36033080-9dcc-11eb-9003-29e472e3c8ff.jpg)
-![Profile visits](https://komarev.com/ghpvc/?username=chjuca&color=blueviolet)
+Software engineer with **7 years** building production software. I design microservices and high-performance REST APIs with **Node.js / NestJS** and **Python / FastAPI**, build frontends with **Next.js, React and Angular**, integrate **LLMs through agents** with LangChain, LangGraph and n8n, and take end-to-end ownership of the infrastructure: **Kubernetes on Amazon EKS, Terraform, CI/CD and multi-account AWS**. I work with Clean Architecture and TDD.
 
-</body>
-</html>
+### 🚀 Highlights
+
+- ⚡ Cut response time for route precomputation and geospatial search from **5,000 ms to 900 ms** with REST APIs and microservices in NestJS and FastAPI.
+- 🤖 Built agents and automations with **LangChain, LangGraph and n8n** on top of internal APIs, replacing manual operational processes.
+- ☁️ Operate production infrastructure across **3 AWS accounts** (EKS, ECS, S3, CloudFront, Lambda, RDS) with Kubernetes, Helm and Terraform, plus CI/CD pipelines in GitHub Actions and Docker that eliminated manual deployments.
+- 🛡️ Manage Nginx as a reverse proxy for **~87 virtual hosts** and their TLS certificates, monitored with Elastic Stack, CloudWatch and Uptime Kuma.
+
+### 🛠️ Tech stack
+
+| Area | Tools |
+| --- | --- |
+| **Backend** | <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" /> <img src="https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" /> <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" /> |
+| **Frontend** | <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" /> <img src="https://img.shields.io/badge/Mapbox%20GL-4264FB?style=for-the-badge&logo=mapbox&logoColor=white" alt="Mapbox GL" /> <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" alt="Leaflet" /> |
+| **AI & Automation** | <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" /> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph" /> <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" /> |
+| **Databases** | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/DocumentDB-527FFF?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBzdHJva2U9IiNmZmZmZmYiIGZpbGw9Im5vbmUiIHN0cm9rZS13aWR0aD0iMiIgdmlld0JveD0iMCAwIDI0IDI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHBhdGggZD0iTTQgNmE4IDMgMCAxIDAgMTYgMGE4IDMgMCAxIDAgLTE2IDAiPjwvcGF0aD48cGF0aCBkPSJNNCA2djZhOCAzIDAgMCAwIDE2IDB2LTYiPjwvcGF0aD48cGF0aCBkPSJNNCAxMnY2YTggMyAwIDAgMCAxNiAwdi02Ij48L3BhdGg%2BPC9zdmc%2B" alt="DocumentDB" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /> |
+| **Cloud & DevOps** | <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBzdHJva2U9IiNmZmZmZmYiIGZpbGw9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMCIgdmlld0JveD0iMCAwIDY0MCA1MTIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHBhdGggZD0iTTE4MC40MSAyMDMuMDFjLS43MiAyMi42NSAxMC42IDMyLjY4IDEwLjg4IDM5LjA1YTguMTY0IDguMTY0IDAgMCAxLTQuMSA2LjI3bC0xMi44IDguOTZhMTAuNjYgMTAuNjYgMCAwIDEtNS42MyAxLjkyYy0uNDMtLjAyLTguMTkgMS44My0yMC40OC0yNS42MWE3OC42MDggNzguNjA4IDAgMCAxLTYyLjYxIDI5LjQ1Yy0xNi4yOC44OS02MC40LTkuMjQtNTguMTMtNTYuMjEtMS41OS0zOC4yOCAzNC4wNi02Mi4wNiA3MC45My02MC4wNSA3LjEuMDIgMjEuNi4zNyA0Ni45OSA2LjI3di0xNS42MmMyLjY5LTI2LjQ2LTE0LjctNDYuOTktNDQuODEtNDMuOTEtMi40LjAxLTE5LjQtLjUtNDUuODQgMTAuMTEtNy4zNiAzLjM4LTguMyAyLjgyLTEwLjc1IDIuODItNy40MSAwLTQuMzYtMjEuNDgtMi45NC0yNC4yIDUuMjEtNi40IDM1Ljg2LTE4LjM1IDY1Ljk0LTE4LjE4YTc2Ljg1NyA3Ni44NTcgMCAwIDEgNTUuNjkgMTcuMjggNzAuMjg1IDcwLjI4NSAwIDAgMSAxNy42NyA1Mi4zNmwtLjAxIDY5LjI5ek05My45OSAyMzUuNGMzMi40My0uNDcgNDYuMTYtMTkuOTcgNDkuMjktMzAuNDcgMi40Ni0xMC4wNSAyLjA1LTE2LjQxIDIuMDUtMjcuNC05LjY3LTIuMzItMjMuNTktNC44NS0zOS41Ni00Ljg3LTE1LjE1LTEuMTQtNDIuODIgNS42My00MS43NCAzMi4yNi0xLjI0IDE2Ljc5IDExLjEyIDMxLjQgMjkuOTYgMzAuNDh6bTE3MC45MiAyMy4wNWMtNy44Ni43Mi0xMS41Mi00Ljg2LTEyLjY4LTEwLjM3bC00OS44LTE2NC42NWMtLjk3LTIuNzgtMS42MS01LjY1LTEuOTItOC41OGE0LjYxIDQuNjEgMCAwIDEgMy44Ni01LjI1Yy4yNC0uMDQtMi4xMyAwIDIyLjI1IDAgOC43OC0uODggMTEuNjQgNi4wMyAxMi41NSAxMC4zN2wzNS43MiAxNDAuODMgMzMuMTYtMTQwLjgzYy41My0zLjIyIDIuOTQtMTEuMDcgMTIuOC0xMC4yNGgxNy4xNmMyLjE3LS4xOCAxMS4xMS0uNSAxMi42OCAxMC4zN2wzMy40MiAxNDIuNjNMNDIwLjk4IDgwLjFjLjQ4LTIuMTggMi43Mi0xMS4zNyAxMi42OC0xMC4zN2gxOS43MmMuODUtLjEzIDYuMTUtLjgxIDUuMjUgOC41OC0uNDMgMS44NSAzLjQxLTEwLjY2LTUyLjc1IDE2OS45LTEuMTUgNS41MS00LjgyIDExLjA5LTEyLjY4IDEwLjM3aC0xOC42OWMtMTAuOTQgMS4xNS0xMi41MS05LjY2LTEyLjY4LTEwLjc1TDMyOC42NyAxMTAuN2wtMzIuNzggMTM2Ljk5Yy0uMTYgMS4wOS0xLjczIDExLjktMTIuNjggMTAuNzVoLTE4LjN6bTI3My40OCA1LjYzYy01Ljg4LjAxLTMzLjkyLS4zLTU3LjM2LTEyLjI5YTEyLjgwMiAxMi44MDIgMCAwIDEtNy44MS0xMS45MXYtMTAuNzVjMC04LjQ1IDYuMi02LjkgOC44My01Ljg5IDEwLjA0IDQuMDYgMTYuNDggNy4xNCAyOC44MSA5LjYgMzYuNjUgNy41MyA1Mi43Ny0yLjMgNTYuNzItNC40OCAxMy4xNS03LjgxIDE0LjE5LTI1LjY4IDUuMjUtMzQuOTUtMTAuNDgtOC43OS0xNS40OC05LjEyLTUzLjEzLTIxLTQuNjQtMS4yOS00My43LTEzLjYxLTQzLjc5LTUyLjM2LS42MS0yOC4yNCAyNS4wNS01Ni4xOCA2OS41Mi01NS45NSAxMi42Ny0uMDEgNDYuNDMgNC4xMyA1NS41NyAxNS42MiAxLjM1IDIuMDkgMi4wMiA0LjU1IDEuOTIgNy4wNHYxMC4xMWMwIDQuNDQtMS42MiA2LjY2LTQuODcgNi42Ni03LjcxLS44Ni0yMS4zOS0xMS4xNy00OS4xNi0xMC43NS02Ljg5LS4zNi0zOS44OS45MS0zOC40MSAyNC45Ny0uNDMgMTguOTYgMjYuNjEgMjYuMDcgMjkuNyAyNi44OSAzNi40NiAxMC45NyA0OC42NSAxMi43OSA2My4xMiAyOS41OCAxNy4xNCAyMi4yNSA3LjkgNDguMyA0LjM1IDU1LjQ0LTE5LjA4IDM3LjQ5LTY4LjQyIDM0LjQ0LTY5LjI2IDM0LjQyem00MC4yIDEwNC44NmMtNzAuMDMgNTEuNzItMTcxLjY5IDc5LjI1LTI1OC40OSA3OS4yNUE0NjkuMTI3IDQ2OS4xMjcgMCAwIDEgMi44MyAzMjcuNDZjLTYuNTMtNS44OS0uNzctMTMuOTYgNy4xNy05LjQ3YTYzNy4zNyA2MzcuMzcgMCAwIDAgMzE2Ljg4IDg0LjEyIDYzMC4yMiA2MzAuMjIgMCAwIDAgMjQxLjU5LTQ5LjU1YzExLjc4LTUgMjEuNzcgNy44IDEwLjEyIDE2LjM4em0yOS4xOS0zMy4yOWMtOC45Ni0xMS41Mi01OS4yOC01LjM4LTgxLjgxLTIuNjktNi43OS43Ny03Ljk0LTUuMTItMS43OS05LjQ3IDQwLjA3LTI4LjE3IDEwNS44OC0yMC4xIDExMy40NC0xMC42MyA3LjU1IDkuNDctMi4wNSA3NS40MS0zOS41NiAxMDYuOTEtNS43NiA0Ljg3LTExLjI3IDIuMy04LjcxLTQuMSA4LjQ0LTIxLjI1IDI3LjM5LTY4LjQ5IDE4LjQzLTgwLjAyeiI%2BPC9wYXRoPjwvc3ZnPg%3D%3D" alt="AWS" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" /> <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" /> <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" /> <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBzdHJva2U9IiNmZmZmZmYiIGZpbGw9Im5vbmUiIHN0cm9rZS13aWR0aD0iMiIgdmlld0JveD0iMCAwIDI0IDI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHBhdGggZD0iTTYgNy41bC00IDkuNWg0bDYgLTE1bC02IDUuNSI%2BPC9wYXRoPjxwYXRoIGQ9Ik0yMiAyMGwtNyAtMTVsLTMgN2w0IDVsLTggM2wxNCAwIj48L3BhdGg%2BPC9zdmc%2B" alt="Azure" /> <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" /> <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /> |
+| **Observability & testing** | <img src="https://img.shields.io/badge/Elastic%20Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white" alt="Elastic Stack" /> <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBzdHJva2U9IiNmZmZmZmYiIGZpbGw9Im5vbmUiIHN0cm9rZS13aWR0aD0iMiIgdmlld0JveD0iMCAwIDI0IDI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHBhdGggZD0iTTEyIDE4LjAwNGgtNS4zNDNjLTIuNTcyIC0uMDA0IC00LjY1NyAtMi4wMTEgLTQuNjU3IC00LjQ4N2MwIC0yLjQ3NSAyLjA4NSAtNC40ODIgNC42NTcgLTQuNDgyYy4zOTMgLTEuNzYyIDEuNzk0IC0zLjIgMy42NzUgLTMuNzczYzEuODggLS41NzIgMy45NTYgLS4xOTMgNS40NDQgMWMxLjQ4OCAxLjE5IDIuMTYyIDMuMDA3IDEuNzcgNC43NjloLjk5Yy45NTYgMCAxLjgyMiAuMzkgMi40NDkgMS4wMiI%2BPC9wYXRoPjxwYXRoIGQ9Ik0xNy4wMDEgMTlhMiAyIDAgMSAwIDQgMGEyIDIgMCAxIDAgLTQgMCI%2BPC9wYXRoPjxwYXRoIGQ9Ik0xOS4wMDEgMTUuNXYxLjUiPjwvcGF0aD48cGF0aCBkPSJNMTkuMDAxIDIxdjEuNSI%2BPC9wYXRoPjxwYXRoIGQ9Ik0yMi4wMzIgMTcuMjVsLTEuMjk5IC43NSI%2BPC9wYXRoPjxwYXRoIGQ9Ik0xNy4yNyAyMGwtMS4zIC43NSI%2BPC9wYXRoPjxwYXRoIGQ9Ik0xNS45NyAxNy4yNWwxLjMgLjc1Ij48L3BhdGg%2BPHBhdGggZD0iTTIwLjczMyAyMGwxLjMgLjc1Ij48L3BhdGg%2BPC9zdmc%2B" alt="CloudWatch" /> <img src="https://img.shields.io/badge/Uptime%20Kuma-5CDD8B?style=for-the-badge&logo=uptimekuma&logoColor=black" alt="Uptime Kuma" /> <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> |
+
+**Practices:** Microservices · REST · Clean Architecture · TDD · Scrum
+
+### 📫 Get in touch
+
+The best way to reach me is by email at **chjuca99@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/chjuca/). More about my work at **[chjuca.dev](https://chjuca.dev)**.
